@@ -1,3 +1,4 @@
+'''Single level directory'''
 from termcolor import colored
 files = []
 error = 0
@@ -52,3 +53,8 @@ while(1):
         print("----------------------------------------\n")
     else:
         print("Wrong choice!!\n")
+
+
+
+
+
